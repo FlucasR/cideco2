@@ -22,6 +22,5 @@ export default props =>
         <Route exact path='/meuPerfil' component={MeuPerfil}/>
         <Route exact path='/esqueciSenha' component={EsqueciSenha}/>
         <Route exact path= '/mainAdmin' component= {MainAdmin}/>
-        <Route exact path= '/gerenciarPerguntas' component={GerencPerguntas}/>
         <Redirect from='*' to='/main'/>
     </Switch>
