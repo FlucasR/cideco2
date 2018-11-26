@@ -6,7 +6,6 @@ import SignUpFace from '../SignUp/SignUpFace';
 import Info from '../Info/Info';
 import Main from './Main';
 import MainAdmin from './MainAdmin'
-import GerencPerguntas from '../GerencPerguntas/GerencPerguntas'
 import Quiz from './../Quiz/Quiz'
 import MeuPerfil from './../MeuPerfil/MeuPerfil'
 import EsqueciSenha from './../EsqueciSenha/EsqueciSenha'
