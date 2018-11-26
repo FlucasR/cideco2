@@ -1,0 +1,7 @@
+nav.navbar{
+    box-shadow: var(--shadow);
+}
+
+.nav-link{
+    cursor: pointer;
+}

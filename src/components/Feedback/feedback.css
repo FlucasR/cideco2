@@ -1,0 +1,12 @@
+.shadow{
+    box-shadow: var(--shadow);
+}
+
+.left{
+    overflow: hidden;
+}
+
+.right{
+    overflow-y: scroll;
+    height: 80vh;
+}
